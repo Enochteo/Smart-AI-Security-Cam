@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+.env
+snapshots/
+venv310/
+venv310/
+*.pt
+*.jpg
+*.DS_Store

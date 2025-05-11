@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "venv/bin/python3.10",
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.useLibraryCodeForTypes": true
+  }
+  
