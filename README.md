@@ -4,25 +4,25 @@ An intelligent, real-time home security system built with Flask, OpenCV, and YOL
 
 ---
 
-## 🎯 Features
+##  Features
 
-- 🧠 Motion Detection using OpenCV
-- 🤖 Object Detection using YOLOv8 (Ultralytics)
-- 📸 Automatic Snapshots on Detection
-- 📧 Email Alerts with Image Attachment
-- 🔄 Toggle Live Feed On/Off
-- 🖥️ Bootstrap-based Responsive Web Interface
+-  Motion Detection using OpenCV
+-  Object Detection using YOLOv8 (Ultralytics)
+-  Automatic Snapshots on Detection
+-  Email Alerts with Image Attachment
+-  Toggle Live Feed On/Off
+-  Bootstrap-based Responsive Web Interface
 
 ---
 
-## 🚀 Demo
+## Demo
 
 ![screenshot](static/demo_ui.jpg)  
-*Example live camera feed with overlay*
+To be added later... Calmzz
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3.10  
 - Flask  
@@ -33,7 +33,7 @@ An intelligent, real-time home security system built with Flask, OpenCV, and YOL
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
@@ -64,7 +64,7 @@ TO_EMAIL=receiver@gmail.com
 python app.py
 ```
 
-## 📂 Folder Structure
+##  Folder Structure
 smart-security-cam-ai/
 │
 ├── app.py
