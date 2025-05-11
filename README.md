@@ -1,4 +1,4 @@
-# 🔐 Smart Security Camera AI
+# 🔐 Smart AI Security Camera
 
 An intelligent, real-time home security system built with Flask, OpenCV, and YOLOv8. Detects motion or AI-based objects and streams live video via a web interface. Supports email alerts and snapshot saving.
 
