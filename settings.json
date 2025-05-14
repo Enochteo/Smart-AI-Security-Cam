@@ -1,3 +1,4 @@
 {
-    "detection_mode": "ai"
+    "detection_mode": "motion",
+    "sensitivity": 3
 }
