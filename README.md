@@ -23,7 +23,8 @@ Live video streaming via Flask
 Email alerts for intrusions
 Frontend UX design with Bootstrap
 
-This project was built to demonstrate my ability to integrate AI models with hardware (camera) and develop a full-stack solution that is responsive, interactive, and valuable in practical scenarios.
+This project was built to demostrate my ability to integrate AI models with Computer Vision and develop a full-stack solution that is responsive, interactive and valuable.
+
 ---
 
 ## Demo
