@@ -14,6 +14,17 @@ An intelligent, real-time home security system built with Flask, OpenCV, and YOL
 -  Bootstrap-based Responsive Web Interface
 
 ---
+## Why This Project?
+Security and surveillance systems are becoming increasingly important in both residential and commercial spaces. This project combines computer vision, AI object detection, and Flask web development to simulate a real-world smart surveillance camera system. It serves as a hands-on implementation of:
+
+Motion detection algorithms
+YOLOv8 AI-based object recognition
+Live video streaming via Flask
+Email alerts for intrusions
+Frontend UX design with Bootstrap
+
+This project was built to demonstrate my ability to integrate AI models with hardware (camera) and develop a full-stack solution that is responsive, interactive, and valuable in practical scenarios.
+---
 
 ## Demo
 
