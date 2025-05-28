@@ -45,37 +45,6 @@ To be added later... Calmzz
 
 ---
 
-##  Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/smart-security-cam-ai.git
-cd smart-security-cam-ai
-```
-
-### 2. Create a Virtual Environment
-```bash
-python3.10 -m venv venv
-source venv/bin/activate
-```
-
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Set Up Environment Variables
-```bash
-EMAIL_ADDRESS=youremail@gmail.com
-EMAIL_PASSWORD=yourapppassword
-TO_EMAIL=receiver@gmail.com
-```
-
-### 5. Run the App
-```bash
-python app.py
-```
-
 ##  Folder Structure
 smart-security-cam-ai/
 │
