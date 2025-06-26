@@ -44,6 +44,7 @@ To be added later... Calmzz
 - Gmail SMTP for Email Alerts  
 
 ---
+#### Ready to deploy this project
 
 ##  Folder Structure
 smart-security-cam-ai/
