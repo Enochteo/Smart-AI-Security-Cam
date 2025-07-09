@@ -28,9 +28,7 @@ This project was built to demostrate my ability to integrate AI models with Comp
 ---
 
 ## Demo
-
-![screenshot](static/demo_ui.jpg)  
-To be added later... Calmzz
+To be added...
 
 ---
 
