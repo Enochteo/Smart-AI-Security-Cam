@@ -42,7 +42,6 @@ To be added...
 - Gmail SMTP for Email Alerts  
 
 ---
-#### Ready to setup for deployment 
 
 ##  Folder Structure
 smart-security-cam-ai/
