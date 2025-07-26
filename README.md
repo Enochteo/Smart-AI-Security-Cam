@@ -23,7 +23,7 @@ Security and surveillance systems are becoming increasingly important in both re
 - Email alerts for intrusions
 - Frontend UX design with Bootstrap
 
-This project was built to demostrate my ability to integrate AI models with Computer Vision and develop a full-stack solution that is responsive, interactive and valuable.
+This project was built to demostrate my ability to integrate AI models with Computer Vision and develop a full-stack solution that is responsive, interactive and valuable
 
 ---
 
