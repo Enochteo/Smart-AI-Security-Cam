@@ -11,7 +11,6 @@ from time import time
 last_email_time = 0
 EMAIL_COOLDOWN = 30  # seconds
 
-
 # Load environment variables
 load_dotenv()
 EMAIL_ADDRESS = os.getenv("EMAIL_ADDRESS")
@@ -57,9 +56,9 @@ def send_email_alert(snapshot_path):
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
             smtp.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
             smtp.send_message(msg)
-            print("✅ Email sent!")
+            print("Email sent!")
     except Exception as e:
-        print(f"❌ Email failed: {e}")
+        print(f"Email failed: {e}")
 
 # Video frame generator
 def generate_frames():
