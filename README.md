@@ -27,11 +27,6 @@ This project was built to demostrate my ability to integrate AI models with Comp
 
 ---
 
-## Demo
-To be added...
-
----
-
 ##  Tech Stack
 
 - Python 3.10  
